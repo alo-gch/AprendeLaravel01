@@ -12,6 +12,7 @@
 <html>
     <head>
         <title>Laragon</title>
+        <h1>FRAMEWORKS EAD</h1>
 
         <link href="https://fonts.googleapis.com/css?family=Karla:400" rel="stylesheet" type="text/css">
 
